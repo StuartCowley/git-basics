@@ -1,4 +1,5 @@
 ## Cats
  
-tiger
-lion
+- Tiger
+- Lion
+- Leopard
