@@ -12,6 +12,6 @@
 
 ## Tolkien
 - Beren and Luthien
-- The Lord of the Rings
+- The Lord Of The Rings
 - The Hobbit
 - The Silmarillion
